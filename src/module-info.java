@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author amara
+ *
+ */
+module Jokenpo {
+}
